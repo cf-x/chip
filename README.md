@@ -49,4 +49,4 @@ This study was performed in line with the principles of the Declaration of Helsi
 ---
 ## 🙏 Acknowledgements
 
-We thank the ICU nurses who contributed their expertise to defining the RW-MPJPE weight system, and our clinical collaborators for their continuous support.
+We thank the nurses from the Department of Intensive Care Unit, the First Affiliated Hospital of USTC, who contributed their expertise to defining the RW-MPJPE weight system.
