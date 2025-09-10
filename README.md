@@ -41,7 +41,12 @@ To address the **clinical importance of different joints** in evaluating pose ac
 - Data usage requires explicit agreement to the **data use policy** outlined in this repository.  
 
 ---
+## ✅ Ethical Approval
 
+
+This study was performed in line with the principles of the Declaration of Helsinki. Approval was granted by the Medical Research Ethics Committee of The First Affiliated Hospital of the University of Science and Technology of China.
+
+---
 ## 🙏 Acknowledgements
 
 We thank the ICU nurses who contributed their expertise to defining the RW-MPJPE weight system, and our clinical collaborators for their continuous support.
