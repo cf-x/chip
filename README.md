@@ -9,16 +9,6 @@
 
 ---
 
-## 📑 Contents
-
-1. [Introduction](#introduction)  
-2. [Dataset Access](#dataset-access)  
-3. [RW-MPJPE Weights](#rw-mpjpe-weights)  
-4. [License](#license)  
-5. [Acknowledgements](#acknowledgements)  
-
----
-
 ## 🔍 Introduction
 
 This repository accompanies the paper **"Robust In-Bed Human Pose and Shape Estimation from Pressure Images with Clinical Awareness"**.  
