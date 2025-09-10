@@ -16,6 +16,14 @@ We propose a novel pipeline that jointly considers pressure sensing and clinical
 
 ---
 
+## ⚖️ RW-MPJPE Weights
+
+To address the **clinical importance of different joints** in evaluating pose accuracy, we introduce **RW-MPJPE (Risk-Weighted MPJPE)**.  
+- The weighting schema was defined by ICU nurse experts.  
+- Full details of the weights are provided in [RW-MPJPE-weights.md](RW-MPJPE-weights.md).  
+
+---
+
 ## 📂 Dataset Access
 
 - Full dataset and source code will be available **after the paper is published**.  
@@ -25,13 +33,6 @@ Please note:
 - Use of the dataset is restricted to **non-commercial research only**.  
 - Redistribution or re-identification attempts are strictly prohibited.  
 
----
-
-## ⚖️ RW-MPJPE Weights
-
-To address the **clinical importance of different joints** in evaluating pose accuracy, we introduce **RW-MPJPE (Risk-Weighted MPJPE)**.  
-- The weighting schema was defined by ICU nurse experts.  
-- Full details of the weights are provided in [RW-MPJPE-weights.md](RW-MPJPE-weights.md).  
 
 ---
 
