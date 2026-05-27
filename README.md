@@ -71,15 +71,13 @@ The model includes:
 
 ---
 
-## RW-MPJPE Weights
+## RW-MPJPE Evaluation
 
 We introduce **RW-MPJPE**: Risk-Weighted Mean Per Joint Position Error.
 
-RW-MPJPE assigns higher evaluation importance to joints and anatomical regions that are more clinically relevant to pressure ulcer risk.
+RW-MPJPE assigns higher evaluation importance to joints and anatomical regions that are more clinically relevant to pressure ulcer risk. The weighting schema was defined with input from ICU nursing experts.
 
-- The weighting schema was defined with input from ICU nursing experts.
-- The weights are provided as public evaluation metadata.
-- Full details are available in [RW-MPJPE-weights.md](RW-MPJPE-weights.md).
+The RW-MPJPE evaluation protocol and related metadata are provided to approved dataset users as part of the controlled-access dataset package.
 
 ---
 
@@ -114,13 +112,11 @@ This study was performed in line with the principles of the Declaration of Helsi
 
 Ethical approval was granted by the **Medical Research Ethics Committee of The First Affiliated Hospital of the University of Science and Technology of China (USTC)**.
 
-Approval No.: **2023KY-211**
-
 ---
 
 ## Acknowledgements
 
-We thank the nurses from the Department of Intensive Care Unit, The First Affiliated Hospital of USTC, for their clinical expertise and support in defining the RW-MPJPE weight system and clinically relevant data collection scenarios.
+We thank the nurses from the Department of Intensive Care Unit, The First Affiliated Hospital of USTC, for their clinical expertise and support in defining the RW-MPJPE evaluation protocol and clinically relevant data collection scenarios.
 
 This work is supported by the Research Funds of the Centre for Leading Medicine and Advanced Technologies of IHM.
 
@@ -130,7 +126,7 @@ This work is supported by the Research Funds of the Centre for Leading Medicine 
 
 The formal citation will be added after publication.
 
-If you use the CHIPS dataset, BA-PIHMR code, or RW-MPJPE weights, please cite the paper once available and acknowledge the dataset as follows:
+If you use the CHIPS dataset, BA-PIHMR method, or RW-MPJPE evaluation protocol, please cite the paper once available and acknowledge the dataset as follows:
 
 ```text
 This research used the CHIPS dataset (Robust In-Bed Human Pose and Shape Estimation from Pressure Images with Clinical Awareness), provided by Chenfang Fang, University of Science and Technology of China (USTC).
@@ -142,5 +138,5 @@ This research used the CHIPS dataset (Robust In-Bed Human Pose and Shape Estimat
 
 For dataset access, questions, or reporting potential privacy/security concerns, please contact:
 
-**Chenfang Fang**  
+**Chenfang Fang**
 Email: [fang_chenfang@mail.ustc.edu.cn](mailto:fang_chenfang@mail.ustc.edu.cn)
